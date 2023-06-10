@@ -1,0 +1,642 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+  },
+  {
+    "question": "Hey",
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "My name is Assist."
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm doing well, thank you. How about you?"
+  },
+  {
+    "question": "I'm good",
+    "answer": "That's great!"
+  },
+  {
+    "question": "I am good",
+    "answer": "That's great!"
+  },
+  {
+    "question": "What are you?",
+    "answer": "I'm a ChatBot."
+  },
+  {
+    "question": "Who created you?",
+    "answer": "I'm created by Amanhex"
+  },
+  {
+    "question": "What time is it?",
+    "answer": "I'm sorry, but as an AI, I don't have real-time information. You can check the time on your device or search online for the current time in your location."
+  },
+  {
+    "question": "Where are you from?",
+    "answer": "I am an AI chatbot created by Amanhex."
+  },
+  {
+    "question": "Bye",
+    "answer": "Good Bye. Nice talking to you!"
+  },
+  {
+    "question": "What can you do?",
+    "answer": "I can help answer your questions, provide information, and assist with various tasks."
+  },
+  {
+    "question": "How old are you?",
+    "answer": "I don't have an age as I am an artificial intelligence."
+  },
+  {
+    "question": "What is the meaning of life?",
+    "answer": "The meaning of life can vary for different individuals and is often a philosophical question."
+  },
+  {
+    "question": "Do you have any siblings?",
+    "answer": "As an AI, I don't have physical siblings, but I'm part of a larger family of AI models."
+  },
+  {
+    "question": "What is your favorite color?",
+    "answer": "I don't have personal preferences like humans do, so I don't have a favorite color."
+  },
+  {
+    "question": "Which is largest continent?",
+    "answer": "Asia is the largest continent."
+  },
+  {
+    "question": "Can you tell a joke?",
+    "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "question": "How can I contact you?",
+    "answer": "You can reach out to me through this chat interface. Is there something specific you'd like to ask?"
+  },
+  {
+    "question": "What is the weather like today?",
+    "answer": "I'm sorry, but I don't have real-time weather information. You can check a weather website or use a weather app to get the current weather forecast."
+  },
+  {
+    "question": "Tell me a fun fact.",
+    "answer": "Sure! Did you know that the average person walks the equivalent of three times around the world in their lifetime?"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris."
+  },
+  {
+    "question": "How do I change my password?",
+    "answer": "To change your password, go to the 'Settings' section of your account and look for the 'Password' or 'Security' options. From there, you should be able to update your password."
+  },
+  {
+    "question": "What is the best programming language?",
+    "answer": "The best programming language depends on the specific use case and personal preference. There are many popular languages like Python, Java, JavaScript, and more, each with its own strengths and purposes."
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, you usually need to go to the 'Account Settings' or 'Profile Settings' section of the platform or website you're using. Look for the 'Delete Account' or 'Close Account' option, and follow the provided instructions."
+  },
+  {
+    "question": "What is the largest ocean?",
+    "answer": "The largest ocean in the world is the Pacific Ocean."
+  },
+  {
+    "question": "How do I bake a chocolate cake?",
+    "answer": "To bake a chocolate cake, you'll need ingredients like flour, sugar, cocoa powder, eggs, butter, and milk. You can find detailed recipes with step-by-step instructions online or in a cookbook."
+  },
+  {
+    "question": "What is the population of New York City?",
+    "answer": "As of the last available data, the population of New York City is approximately 8.4 million people."
+  },
+  {
+    "question": "How do I create a website?",
+    "answer": "To create a website, you'll need to plan your content, choose a domain name, select a web hosting provider, design and develop your website, and publish it online. There are various tools and platforms available to help you create a website, even if you don't have coding experience."
+  },
+  {
+    "question": "Who is the President of the United States?",
+    "answer": "As of my knowledge cutoff in September 2021, the President of the United States is Joe Biden."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese Yen (JPY)."
+  },
+  {
+    "question": "How do I make a payment online?",
+    "answer": "To make a payment online, you can use various methods such as credit or debit cards, online banking transfers, digital wallets like PayPal, or other secure payment gateways provided by the platform or website you're using."
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "The largest desert in the world is the Sahara Desert in Africa."
+  },
+  {
+    "question": "How do I book a flight?",
+    "answer": "To book a flight, you can visit airline websites or use online travel agencies. Enter your travel details, including departure and destination airports, dates, and the number of passengers. You'll be presented with available flight options, and you can choose and book the one that suits you."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The capital of Australia is Canberra."
+  },
+  {
+    "question": "How do I take a screenshot?",
+    "answer": "To take a screenshot, you can usually use keyboard shortcuts specific to your operating system. On Windows, you can press the 'Print Screen' key or use 'Win + Shift + S' to capture a selected area. On Mac, you can use 'Command + Shift + 3' to capture the whole screen or 'Command + Shift + 4' to capture a selected area."
+  },
+  {
+    "question": "What are the symptoms of COVID-19?",
+    "answer": "Common symptoms of COVID-19 include fever, cough, shortness of breath, fatigue, body aches, sore throat, and loss of taste or smell. However, it's important to note that symptoms can vary and some individuals may experience no symptoms at all. If you suspect you have COVID-19, it's recommended to consult a healthcare professional and follow the guidelines of your local health authorities."
+  },
+  {
+    "question": "How do I change the language settings?",
+    "answer": "To change the language settings, you need to navigate to the 'Settings' or 'Preferences' section of the platform or application you're using. Look for the 'Language' or 'Language Settings' option and select your desired language from the available options."
+  },
+  {
+    "question": "Who is the author of Harry Potter?",
+    "answer": "The author of the Harry Potter book series is J.K. Rowling."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, go to the login page and look for the 'Forgot Password' or 'Reset Password' link. Click on it and follow the instructions to reset your password. You may need to provide your email address or answer security questions to verify your identity."
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "The tallest mountain in the world is Mount Everest, located in the Himalayas."
+  },
+  {
+    "question": "How do I take care of indoor plants?",
+    "answer": "To take care of indoor plants, you should provide them with proper sunlight, water them regularly (but avoid overwatering), use well-draining soil, fertilize them as needed, and keep an eye out for pests. Different types of plants may have specific care requirements, so it's good to research the specific needs of your indoor plants."
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "The capital of Spain is Madrid."
+  },
+  {
+    "question": "How do I create a strong password?",
+    "answer": "To create a strong password, use a combination of uppercase and lowercase letters, numbers, and special characters. Avoid using common words or easily guessable information. It's also important to use a unique password for each of your accounts and to regularly update your passwords for better security."
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "answer": "The largest country in the world by land area is Russia."
+  },
+  {
+    "question": "How do I download a file from the internet?",
+    "answer": "To download a file from the internet, you can usually right-click on the download link and select 'Save link as' or 'Download linked file.' You can choose a location on your computer to save the file and then initiate the download."
+  },
+  {
+    "question": "What is the current time?",
+    "answer": "I'm sorry, but as an AI, I don't have real-time information. You can check the time on your device or search online for the current time in your location."
+  },
+  {
+    "question": "How do I create a strong password?",
+    "answer": "To create a strong password, use a combination of uppercase and lowercase letters, numbers, and special characters. Avoid using common words or easily guessable information. It's also important to use a unique password for each of your accounts and to regularly update your passwords for better security."
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "answer": "The largest country in the world by land area is Russia."
+  },
+  {
+    "question": "How do I download a file from the internet?",
+    "answer": "To download a file from the internet, you can usually right-click on the download link and select 'Save link as' or 'Download linked file.' You can choose a location on your computer to save the file and then initiate the download."
+  },
+  {
+    "question": "What is the current time?",
+    "answer": "I'm sorry, but as an AI, I don't have real-time information. You can check the time on your device or search online for the current time in your location."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "question": "How do I cook pasta?",
+    "answer": "To cook pasta, bring a large pot of water to a boil, add salt to the boiling water, and then add the pasta. Cook the pasta according to the instructions on the package, stirring occasionally. Once the pasta is cooked al dente (firm but not hard), drain it in a colander and it's ready to be served with your choice of sauce."
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second)."
+  },
+  {
+    "question": "How do I start a blog?",
+    "answer": "To start a blog, you'll need to choose a blogging platform, select a domain name, set up web hosting, customize your blog's design, and start creating and publishing content. There are various blogging platforms available, such as WordPress, Blogger, and Medium, each with its own features and setup process."
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "The capital of China is Beijing."
+  },
+  {
+    "question": "How do I clean a computer?",
+    "answer": "To clean a computer, you can start by turning it off and unplugging it. Use a soft, lint-free cloth to wipe the exterior of the computer and its peripherals. You can also use compressed air to blow out dust from the keyboard and other hard-to-reach areas. Avoid using liquid cleaners directly on the computer components, and be gentle when cleaning to avoid causing any damage."
+  },
+  {
+    "question": "What is the diameter of the Earth?",
+    "answer": "The diameter of the Earth is approximately 12,742 kilometers (7,918 miles)."
+  },
+  {
+    "question": "How do I create a budget?",
+    "answer": "To create a budget, start by determining your income and expenses. Make a list of all your sources of income and categorize your expenses, such as rent, groceries, utilities, transportation, and entertainment. Track your spending and compare it to your income to identify areas where you can make adjustments. Allocate a portion of your income to savings or debt repayment. There are also budgeting apps and tools available to assist with the process."
+  },
+  {
+    "question": "What is the national animal of Canada?",
+    "answer": "The national animal of Canada is the beaver."
+  },
+  {
+    "question": "How do I take care of a pet dog?",
+    "answer": "To take care of a pet dog, you should provide them with a balanced diet, regular exercise, grooming, and veterinary care. Make sure they have fresh water, a comfortable living environment, and opportunities for socialization and mental stimulation. Spend quality time with your dog, train them using positive reinforcement techniques, and ensure they receive necessary vaccinations and preventative treatments for parasites."
+  },
+  {
+    "question": "What is the distance from the Earth to the Moon?",
+    "answer": "The average distance from the Earth to the Moon is about 384,400 kilometers (238,900 miles)."
+  },
+  {
+    "question": "How do I write a cover letter?",
+    "answer": "To write a cover letter, start by addressing it to the appropriate person or company. Introduce yourself and mention the position you're applying for. Highlight your relevant skills, experiences, and qualifications that make you a strong candidate. Customize the cover letter for each job application, and conclude with a polite closing and your contact information. Proofread the letter before sending it to ensure it is free of errors."
+  },
+  {
+    "question": "What is the largest animal in the world?",
+    "answer": "The largest animal in the world is the blue whale."
+  },
+  {
+    "question": "How do I take care of my skin?",
+    "answer": "To take care of your skin, follow a regular skincare routine that includes cleansing, moisturizing, and protecting from the sun. Use gentle cleansers suitable for your skin type, moisturize with a product that suits your skin's needs, and apply sunscreen with at least SPF 30 when exposed to the sun. Drink plenty of water, eat a balanced diet, and get enough sleep for overall skin health."
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "The capital of Brazil is Brasília."
+  },
+  {
+    "question": "How do I improve my concentration?",
+    "answer": "To improve concentration, you can try techniques such as minimizing distractions, breaking tasks into smaller manageable chunks, setting specific goals, practicing mindfulness or meditation, getting enough sleep, and maintaining a healthy diet and exercise routine. Different techniques work for different people, so it's important to find what helps you focus best."
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "Electricity wasn't discovered by a single person. The understanding and harnessing of electricity evolved over time with contributions from multiple scientists and inventors, including Benjamin Franklin, Alessandro Volta, Michael Faraday, and Thomas Edison."
+  },
+  {
+    "question": "How do I start investing?",
+    "answer": "To start investing, it's important to first educate yourself about different investment options and understand your financial goals and risk tolerance. Consider consulting with a financial advisor for personalized guidance. You can start investing by opening an investment account with a brokerage or investment firm, choosing suitable investments such as stocks, bonds, mutual funds, or exchange-traded funds (ETFs), and regularly contributing funds to your investment portfolio."
+  },
+  {
+    "question": "What is the population of India?",
+    "answer": "As of the last available data, the population of India is over 1.3 billion people, making it the second-most populous country in the world."
+  },
+  {
+    "question": "How do I take care of my car?",
+    "answer": "To take care of your car, make sure to follow the manufacturer's maintenance recommendations, such as regular oil changes, tire rotations, and fluid checks. Keep your car clean, both inside and outside, and address any issues or repairs promptly. Regularly check the tire pressure, replace worn-out wiper blades, and ensure all lights are functioning properly. It's also important to drive safely and follow traffic rules to avoid accidents and maintain the longevity of your car."
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "answer": "The national flower of Japan is the cherry blossom, also known as Sakura."
+  },
+  {
+    "question": "How do I learn a new language?",
+    "answer": "To learn a new language, you can start by immersing yourself in the language as much as possible. Take classes, use language learning apps or online resources, practice with native speakers, and watch movies or TV shows in the target language. Regular practice, patience, and perseverance are key to language acquisition. It's also helpful to set specific goals, track your progress, and make language learning a fun and enjoyable experience."
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "The telephone was invented by Alexander Graham Bell."
+  },
+  {
+    "question": "How do I prepare for a job interview?",
+    "answer": "To prepare for a job interview, research the company, understand the job requirements, and practice common interview questions. Prepare examples of your skills, experiences, and accomplishments that demonstrate your suitability for the role. Dress professionally, arrive on time, and bring copies of your resume and any relevant documents. During the interview, listen attentively, ask questions, and showcase your enthusiasm and motivation for the position."
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris."
+  },
+  {
+    "question": "How do I make a healthy smoothie?",
+    "answer": "To make a healthy smoothie, start by selecting a variety of fruits and vegetables. Add a liquid base such as water, milk, or yogurt. You can also include protein sources like nuts, seeds, or protein powder. Blend all the ingredients together until smooth. You can customize your smoothie by adding sweeteners like honey or dates, spices like cinnamon, or superfood additions like chia seeds or spinach."
+  },
+  {
+    "question": "What is the tallest building in the world?",
+    "answer": "As of my knowledge cutoff in September 2021, the tallest building in the world is the Burj Khalifa in Dubai, United Arab Emirates, with a height of 828 meters (2,717 feet)."
+  },
+  {
+    "question": "How do I create a social media account?",
+    "answer": "To create a social media account, visit the website or download the app of the social media platform you're interested in. Click on the 'Sign Up' or 'Create Account' button and provide the required information, such as your name, email address, and a password. Follow the prompts to complete the account creation process, and then you can start customizing your profile and connecting with others on the platform."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "The capital of Canada is Ottawa."
+  },
+  {
+    "question": "How do I take care of my houseplants?",
+    "answer": "To take care of houseplants, provide them with appropriate sunlight, water them as needed (avoid overwatering), use well-draining soil, and fertilize them according to their specific needs. Monitor the humidity levels in your home, remove dust from the leaves, and check for pests regularly. Different types of houseplants may have different care requirements, so it's important to research the specific needs of your plants."
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "answer": "The play Romeo and Juliet was written by William Shakespeare."
+  },
+  {
+    "question": "How do I tie a tie?",
+    "answer": "There are several ways to tie a tie, but one common method is the four-in-hand knot. Start by draping the tie around your neck, with the wide end longer than the narrow end. Cross the wide end over the narrow end, bring it under, and pass it over again. Then, loop the wide end through the gap between the tie and your collar, and bring it down through the loop in front. Finally, adjust and tighten the knot as desired."
+  },
+  {
+    "question": "What is the temperature at which water boils?",
+    "answer": "The boiling point of water is 100 degrees Celsius (212 degrees Fahrenheit) at sea level."
+  },
+  {
+    "question": "How do I start a small business?",
+    "answer": "To start a small business, begin by developing a business idea and conducting market research. Create a business plan that outlines your goals, target audience, marketing strategy, and financial projections. Register your business and obtain any necessary licenses or permits. Secure funding, either through personal savings, loans, or investors. Set up your physical or online presence, and start marketing and selling your products or services."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The capital of Australia is Canberra."
+  },
+  {
+    "question": "How do I take care of my teeth?",
+    "answer": "To take care of your teeth, brush them at least twice a day using a fluoride toothpaste and a soft-bristle toothbrush. Floss daily to remove plaque and food particles from between your teeth. Visit a dentist regularly for check-ups and professional cleanings. Limit sugary and acidic foods and drinks, and avoid tobacco products. Additionally, consider using mouthwash and maintaining a balanced diet for overall dental health."
+  },
+  {
+    "question": "Who wrote the novel To Kill a Mockingbird?",
+    "answer": "The novel To Kill a Mockingbird was written by Harper Lee."
+  },
+  {
+    "question": "How do I make homemade pizza?",
+    "answer": "To make homemade pizza, start by preparing the dough by combining flour, yeast, salt, and water. Knead the dough until smooth, then let it rise for an hour or until it doubles in size. Preheat your oven and roll out the dough into your desired pizza shape. Add your favorite toppings, such as sauce, cheese, vegetables, and meats. Bake the pizza in the preheated oven until the crust is golden brown and the cheese is bubbly and melted."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese yen (¥)."
+  },
+  {
+    "question": "How do I stay motivated?",
+    "answer": "To stay motivated, set clear goals, break them down into smaller achievable tasks, and track your progress. Find your source of inspiration and remind yourself why you started. Surround yourself with supportive people and create a positive environment. Reward yourself for reaching milestones and take breaks when needed. Regularly reassess your goals and adjust them if necessary. Lastly, maintain a healthy work-life balance and take care of your physical and mental well-being."
+  },
+  {
+    "question": "Who is the current President of the United States?",
+    "answer": "As of my knowledge cutoff in September 2021, the current President of the United States is Joe Biden."
+  },
+  {
+    "question": "How do I make a paper airplane?",
+    "answer": "To make a paper airplane, start with a rectangular piece of paper. Fold the paper in half lengthwise and then unfold it. Fold the top corners of the paper down to the center crease, forming a triangle shape at the top. Fold the resulting triangle down so that the tip aligns with the bottom edge of the paper. Fold the paper in half along the center crease, and then fold the wings down at a 45-degree angle. Adjust the wings and tail to your desired shape, and your paper airplane is ready to fly!"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "answer": "The capital of South Africa is Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial)."
+  },
+  {
+    "question": "How do I stay healthy?",
+    "answer": "To stay healthy, maintain a balanced diet that includes fruits, vegetables, whole grains, lean proteins, and healthy fats. Engage in regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week. Get enough sleep, manage stress through relaxation techniques or hobbies, and avoid harmful substances such as tobacco and excessive alcohol consumption. Regularly visit a healthcare professional for check-ups and screenings, and maintain a positive mindset."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "question": "How do I make chocolate chip cookies?",
+    "answer": "To make chocolate chip cookies, start by creaming together butter, sugar, and brown sugar until light and fluffy. Add eggs and vanilla extract, and mix well. In a separate bowl, combine flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture, mixing until just combined. Stir in chocolate chips. Drop spoonfuls of dough onto a baking sheet and bake in a preheated oven until golden brown. Allow the cookies to cool before enjoying."
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "answer": "The largest ocean in the world is the Pacific Ocean."
+  },
+  {
+    "question": "How do I start a workout routine?",
+    "answer": "To start a workout routine, begin by setting specific fitness goals and identifying activities you enjoy. Start with a realistic and manageable exercise plan, considering factors such as your current fitness level and any health concerns. Incorporate a mix of cardiovascular exercises, strength training, and flexibility exercises. Gradually increase the intensity and duration of your workouts over time. Remember to warm up before exercising, stay hydrated, and listen to your body to avoid injury."
+  },
+  {
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "answer": "The novel Pride and Prejudice was written by Jane Austen."
+  },
+  {
+    "question": "How do I take care of a newborn baby?",
+    "answer": "To take care of a newborn baby, prioritize their basic needs, such as feeding, burping, diaper changing, and providing a safe sleep environment. Hold and cuddle your baby to foster bonding. Establish a routine for feeding and sleeping. Keep the baby's surroundings clean and ensure they are dressed appropriately for the temperature. Respond to their cues and provide comfort and stimulation as needed. It's important to consult healthcare professionals for guidance on newborn care."
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "The capital of Spain is Madrid."
+  },
+  {
+    "question": "How do I make a cup of tea?",
+    "answer": "To make a cup of tea, start by boiling water in a kettle. Place a tea bag or loose tea leaves in a cup and pour the hot water over it. Let it steep for the recommended time, usually 3-5 minutes. Remove the tea bag or strain the leaves, and add any desired additions such as sugar, honey, or milk. Stir and enjoy your cup of tea."
+  },
+  {
+    "question": "What is the square root of 64?",
+    "answer": "The square root of 64 is 8."
+  },
+  {
+    "question": "How do I start a compost pile?",
+    "answer": "To start a compost pile, choose a suitable location in your yard or garden. Layer organic materials such as kitchen scraps (vegetable peels, coffee grounds, eggshells), yard waste (leaves, grass clippings), and small amounts of paper or cardboard. Add water to keep the pile moist but not soggy. Turn the pile occasionally to aerate it and speed up decomposition. Over time, the materials will break down into nutrient-rich compost that can be used to fertilize plants."
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Penicillin was discovered by Alexander Fleming."
+  },
+  {
+    "question": "How do I make a resume?",
+    "answer": "To make a resume, start by selecting a professional format and organizing the information in a clear and concise manner. Include your contact information, a professional summary or objective statement, your education background, work experience, skills, and any relevant certifications or achievements. Tailor your resume to the specific job you're applying for, and proofread it for errors and consistency. You can use online resume templates or seek assistance from resume writing resources."
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "The capital of Italy is Rome."
+  },
+  {
+    "question": "How do I make scrambled eggs?",
+    "answer": "To make scrambled eggs, crack the desired number of eggs into a bowl and whisk them until well blended. Heat a non-stick skillet over medium heat and add a small amount of butter or oil. Pour the beaten eggs into the skillet and let them cook for a few seconds until they start to set. Using a spatula, gently stir and fold the eggs, breaking them into small curds. Continue cooking and stirring until the eggs reach your desired consistency. Season with salt, pepper, or any desired herbs or spices."
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "The largest desert in the world is the Antarctic Desert."
+  },
+  {
+    "question": "How do I start meditating?",
+    "answer": "To start meditating, find a quiet and comfortable space where you can sit or lie down. Close your eyes and focus on your breath, taking slow and deep breaths in and out. Observe your thoughts without judgment and gently bring your attention back to your breath whenever your mind wanders. You can also choose a specific meditation technique, such as mindfulness or guided meditation, and use apps or online resources for guidance. Start with short sessions and gradually increase the duration as you become more comfortable."
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "answer": "The Starry Night was painted by Vincent van Gogh."
+  },
+  {
+    "question": "How do I make a budget?",
+    "answer": "To make a budget, start by tracking your income and expenses. List all your sources of income and categorize your expenses, such as rent, utilities, groceries, transportation, and entertainment. Differentiate between essential and non-essential expenses. Calculate your total income and total expenses, and subtract your expenses from your income to determine if you have a surplus or a deficit. Adjust your spending habits and prioritize saving or paying off debts as necessary. Regularly review and update your budget to stay on track."
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "The capital of China is Beijing."
+  },
+  {
+    "question": "How do I make a grilled cheese sandwich?",
+    "answer": "To make a grilled cheese sandwich, butter one side of two slices of bread. Place a slice or slices of cheese between the non-buttered sides of the bread. Heat a skillet or griddle over medium heat and place the sandwich in the pan. Cook until the bread turns golden brown and the cheese melts, flipping the sandwich halfway through. Remove from the heat and let it cool slightly before serving."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The largest planet in our solar system is Jupiter."
+  },
+  {
+    "question": "Which anime has the best animation?",
+    "answer": "Many people would say that Demon Slayer: Kimetsu no Yaiba has the best animation. The show is known for its fluid and detailed animation, which really brings the characters and world to life."
+  },
+  {
+    "question": "Is Demon Slayer good?",
+    "answer": "Demon Slayer is a very popular anime, and for good reason. The show has a great story, likeable characters, and some of the best animation in anime history. If you're a fan of anime, then you should definitely check out Demon Slayer."
+  },
+  {
+    "question": "Is Sukuna evil?",
+    "answer": "Sukuna is a powerful demon who is the main antagonist of Jujutsu Kaisen. He is a very cruel and sadistic demon who enjoys killing and torturing people. However, there is also a part of Sukuna that is still human, and he can be very charming and charismatic. Ultimately, whether or not Sukuna is evil is up to the viewer to decide."
+  },
+  {
+    "question": "Who is Iron Man?",
+    "answer": "Iron Man is a fictional superhero who appears in American comic books published by Marvel Comics. He is the alter ego of Tony Stark, a wealthy industrialist and genius inventor. Iron Man first appeared in Tales of Suspense #39 (cover dated March 1963), and was co-created by writer-editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby."
+  },
+  {
+    "question": "Which movie has the best soundtrack?",
+    "answer": "Many people would say that The Greatest Showman has the best soundtrack. The show is known for its catchy songs and inspiring lyrics."
+  },
+  {
+    "question": "Is The Godfather a good movie?",
+    "answer": "The Godfather is a very popular movie, and for good reason. The movie is a classic crime drama that tells the story of a powerful Mafia family. The Godfather is well-acted, well-directed, and well-written. If you haven't seen it, then you should definitely check it out."
+  },
+  {
+    "question": "Who is the best actor in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most popular actors in the world include Robert Downey Jr., Leonardo DiCaprio, and Meryl Streep."
+  },
+  {
+    "question": "Which anime is the most popular?",
+    "answer": "According to a recent poll, Demon Slayer: Kimetsu no Yaiba is the most popular anime in the world. The show has been a huge hit, and it has won numerous awards."
+  },
+  {
+    "question": "Which anime is the best?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most popular and critically acclaimed anime include Neon Genesis Evangelion, Fullmetal Alchemist: Brotherhood, and Attack on Titan."
+  },
+  {
+    "question": "What is the best anime to watch for beginners?",
+    "answer": "Some of the best anime to watch for beginners include My Hero Academia, One Punch Man, and Jujutsu Kaisen. These shows are all well-written and well-animated, and they are a great introduction to the world of anime."
+  },
+  {
+    "question": "Who is the most famous celebrity in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most famous celebrities in the world include Beyoncé, Taylor Swift, and Cristiano Ronaldo."
+  },
+  {
+    "question": "Who is the richest celebrity in the world?",
+    "answer": "According to Forbes, the richest celebrity in the world is Elon Musk. Musk is a business magnate and investor who is the founder of SpaceX and Tesla."
+  },
+  {
+    "question": "Who is the most influential celebrity in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most influential celebrities in the world include Malala Yousafzai, Greta Thunberg, and Beyoncé."
+  },
+  {
+    "question": "What is Attack on Titan about?",
+    "answer": "Attack on Titan is a Japanese dark fantasy anime television series, adapted from the manga series of the same name by Hajime Isayama, that premiered on April 7, 2013. It has aired on NHK General TV in Japan, and Aniplus Asia in various Asia-Pacific countries. In the United States and Canada, the series has been streamed on Crunchyroll, Funimation, Netflix, Amazon Prime Video, and Hulu.Attack on Titan has also aired on Adult Swim's Toonami programming block in the U.S. ... Set in a post-apocalyptic world where the remains of humanity live behind walls protecting them from giant humanoid Titans, Attack on Titan follows protagonist Eren Yeager, along with friends Mikasa Ackerman and Armin Arlert. When a Colossal Titan breaches the wall of their hometown, Titans destroy the city and eat Eren's mother. Eren vows to avenge his mother's death and destroy all the Titans. He joins the Scouting Legion, an elite group of soldiers who fight Titans outside the walls. Eren, Mikasa, and Armin must use their strength and courage to survive in a world where humanity is on the brink of extinction."
+  },
+  {
+    "question": "What are the main characters in Attack on Titan?",
+    "answer": "The main characters in Attack on Titan are Eren Yeager, Mikasa Ackerman, and Armin Arlert. Eren Yeager is the protagonist of Attack on Titan. He is a young man who is determined to avenge his mother's death and destroy all the Titans. Eren has the ability to transform into a Titan, which gives him a powerful advantage in battle. Mikasa Ackerman is Eren's childhood friend and adoptive sister. She is a skilled fighter and is fiercely protective of Eren. Mikasa is also very intelligent and resourceful. Armin Arlert is Eren's best friend. He is a brilliant strategist and tactician. Armin is also very brave and is willing to sacrifice himself for his friends. Together, Eren, Mikasa, and Armin must use their strength and courage to survive in a world where humanity is on the brink of extinction."
+  },
+  {
+    "question": "What are the Titans?",
+    "answer": "The Titans are the main antagonists of Attack on Titan. They are giant humanoid creatures that eat humans. Titans are incredibly strong and durable, and they have no intelligence or emotions. They are driven by a single instinct: to eat humans. The Titans are a mystery to humanity. No one knows where they came from or why they eat humans. However, one thing is for sure: the Titans are a threat to humanity's survival."
+  },
+  {
+    "question": "What are the walls?",
+    "answer": "The walls are the only thing that protects humanity from the Titans. They are three massive walls that surround the last remaining human cities. The walls are made of a special material that is impervious to Titan attacks. The walls were built 100 years ago by the First King of the Walls. The First King believed that the Titans were a punishment from God, and he wanted to protect humanity from them. The walls have worked for 100 years, but they are now under threat from a new enemy."
+  },
+  {
+    "question": "What is the Survey Corps?",
+    "answer": "The Survey Corps is an elite group of soldiers who fight Titans outside the walls. They are the only ones who know the truth about the Titans, and they are dedicated to fighting them and protecting humanity. The Survey Corps is led by Commander Erwin Smith. Erwin is a brilliant strategist and a skilled fighter. He is also very determined to find the truth about the Titans and to protect humanity. The Survey Corps is the last hope for humanity's survival. They are the only ones who can fight the Titans and protect the walls. The Survey Corps is humanity's last line of defense."
+  },
+  {
+    "question": "Who is Eren Yeager",
+    "answer": "Eren Yeager | Villains Wiki | Fandom Eren Yeager is the main protagonist of the Attack on Titan series. He is a former member of the Survey Corps, the leader of the Yeagerists, the last inheritor of the Attack Titan and later revealed to be the Founding Titan as well. Later in the story, he becomes the inheritor of the War Hammer Titan."
+  },
+  {
+    "question": "What is Jujutsu Kaisen about?",
+    "answer": "Jujutsu Kaisen is a Japanese dark fantasy manga series about a high school student who becomes a jujutsu sorcerer to fight cursed spirits."
+  },
+  {
+    "question": "Who are the main characters in Jujutsu Kaisen?",
+    "answer": "The main characters in Jujutsu Kaisen are Yuji Itadori, Megumi Fushiguro, and Nobara Kugisaki."
+  },
+  {
+    "question": "What are cursed spirits?",
+    "answer": "Cursed spirits are malevolent beings that feed on human negative emotions."
+  },
+  {
+    "question": "What is jujutsu?",
+    "answer": "Jujutsu is a form of magic that allows users to exorcise cursed spirits."
+  },
+  {
+    "question": "Who is Satoru Gojo?",
+    "answer": "Satoru Gojo is a Special Grade Jujutsu Sorcerer and the strongest Jujutsu Sorcerer in the world."
+  },
+  {
+    "question": "Why is Satoru Gojo so famous?",
+    "answer": "Gojo is famous for his immense strength and power, as well as his carefree and laid-back personality."
+  },
+  {
+    "question": "What are Gojo's powers?",
+    "answer": "Gojo has a number of powerful abilities, including the Limitless Cursed Technique, which allows him to manipulate space and time."
+  },
+  {
+    "question": "Why is Gojo Satoru so popular",
+    "answer": "Gojo is a popular character for a number of reasons, including his strength, cool personality, sense of humor, and fashionable sense of style."
+  },
+  {
+    "question": "What is Satoru Gojo's backstory?",
+    "answer": "Gojo was born into a family of jujutsu sorcerers. He was a prodigy from a young age and quickly rose through the ranks of the jujutsu world. Gojo is a skilled teacher and is dedicated to protecting the world from cursed spirits."
+  },
+  {
+    "question": "What is Satoru Gojo's quote?",
+    "answer": "Gojo's quote is: The world is a beautiful place, isn't it?"
+  },
+  {
+    "question": "Who is naruto Uzumaki?",
+    "answer": "Naruto Uzumaki is the main protagonist of Naruto. He is a young ninja who dreams of becoming Hokage, the leader of his village."
+  },
+  {
+    "question": "Who is the main protagonist character of Naruto?",
+    "answer": "Naruto Uzumaki is the main protagonist of Naruto. He is a young ninja who dreams of becoming Hokage, the leader of his village."
+  },
+  {
+    "question": "What is Naruto's backstory?",
+    "answer": "Naruto was born as the jinchūriki of the Nine-Tails, a powerful demon fox. Because of this, he was shunned and hated by the villagers of Konohagakure."
+  },
+  {
+    "question": "What are Naruto's powers?",
+    "answer": "Naruto has a number of powerful abilities, including: Rasengan, Sage Mode and Kurama Mode."
+  },
+  {
+    "question": "What is the story of Naruto?",
+    "answer": "The story of Naruto follows Naruto's journey to become Hokage. Naruto faces many challenges along the way, but he never gives up on his dreams. Naruto eventually achieves his dream and becomes Hokage, and he leads his village to peace."
+  },
+  {
+    "question": "Who is Sasuke Uchiha?",
+    "answer": "Sasuke Uchiha is a skilled ninja who is also Naruto's rival. Sasuke is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Sasuke is a skilled swordsman, and he is also a skilled user of fire techniques. Sasuke is a complex character who is driven by revenge, but he eventually finds redemption."
+  },
+  {
+    "question": "Who is Itachi Uchiha?",
+    "answer": "Itachi Uchiha is a skilled ninja who is also Sasuke's older brother. Itachi is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Itachi is a skilled assassin, and he is also a skilled user of fire techniques. Itachi is a tragic character who is forced to make difficult choices."
+  },
+  {
+    "question": "Who is Pain?",
+    "answer": "Pain is the leader of Akatsuki, and he is one of the most powerful ninjas in the world. Pain is a skilled user of the Rinnegan, a powerful eye technique. Pain is also a skilled user of chakra, and he is able to create powerful illusions. Pain is a complex character who is driven by a desire for peace."
+  },
+  {
+    "question": "Who is Sakura Haruno?",
+    "answer": "Sakura Haruno is a kind and compassionate kunoichi who is also Naruto's friend and love interest. Sakura is a skilled medical ninja, and she is also a skilled kunoichi. Sakura is a strong and determined character who is always willing to help others."
+  },
+  {
+    "question": "Who is Hinata Hyuga?",
+    "answer": "Hinata Hyuga is a kind and compassionate kunoichi who is also Naruto's love interest. Hinata is a member of the Hyuga clan, and she is known for her powerful Byakugan eyes. Hinata is a skilled taijutsu fighter, and she is also a skilled kunoichi. Hinata is a strong and determined character who is always willing to help others."
+  },
+  {
+    "question": "Who is Tsunade?",
+    "answer": "Tsunade is the Fifth Hokage of Konohagakure, and she is one of the most powerful kunoichi in the world. Tsunade is a skilled medical ninja, and she is also a skilled kunoichi. Tsunade is a strong and determined character who is always willing to protect her village."
+  },
+  {
+    "question": "Who is Kakashi Hatake?",
+    "answer": "Kakashi Hatake is a skilled ninja who is also Naruto's sensei. Kakashi is a member of the Hatake clan, and he is known for his Sharingan eyes. Kakashi is a skilled swordsman, and he is also a skilled user of lightning techniques. Kakashi is a wise and experienced character who is always willing to help others."
+  },
+  {
+    "question": "Who is Minato Namikaze?",
+    "answer": "Minato Namikaze is the Fourth Hokage of Konohagakure, and he is considered to be one of the strongest ninjas in the world. Minato is a skilled taijutsu fighter, and he is also a skilled user of fire and teleportation techniques. Minato is a wise and experienced character who is always willing to protect his village."
+  },
+  {
+    "question": "Who is Madara Uchiha?",
+    "answer": "Madara Uchiha is one of the most powerful ninjas in the world, and he is also the founder of Akatsuki. Madara is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Madara is a skilled swordsman, and he is also a skilled user of fire techniques. Madara is a complex character who is driven by ambition and power."
+  }
+]
